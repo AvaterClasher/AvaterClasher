@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avaterclasher" alt="avaterclasher" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Website**
+- 🔭 I’m currently working on **Fullstack Applications**
 
-- 🌱 I’m currently learning **Ajax ,Kotlin etc.**
+- 🌱 I’m currently learning **ThreeJS , React-Three-Fiber and WebAPI **
 
-- 👯 I’m looking to collaborate on **Personal Website**
+- 👯 I’m looking to collaborate on **ThreeJS Projects**
 
-- 🤝 I’m looking for help with **Personal Website**
+- 🤝 I’m looking for help with **WebGl**
 
-- 💬 Ask me about **React ,Vue etc.**
+- 💬 Ask me about **React,  NextJ etc.**
 
-- 📫 How to reach me **avater.clasher47@gmail.com**
+- 📫 How to reach me **avater.clasher@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
