@@ -25,7 +25,7 @@
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=AvaterClasher&count_private=true&show_icons=true&theme=react" /> <img width="425" src="https://streak-stats.demolab.com/?user=getlost01&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=AvaterClasher&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvaterClasher&layout=compact&langs_count=10&theme=react) 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AvaterClasher&theme=react)
+<!--![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AvaterClasher&theme=react) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getlost01&layout=compact&langs_count=10&theme=react) -->
 <!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=getlost01&theme=react) -->
 
