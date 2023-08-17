@@ -4,17 +4,17 @@
 
 <h2 align="center">Hi 👋, I'm Soumyadip Moni</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Soumyadip+Moni2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Soumyadip+Moni+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 ---
 
 ### 👦 About Me
 
-- 👨‍💻 I'm a B-Tech CSE Final year student at UIET Kanpur
+- 👨‍💻 I'm a B-Tech CSE Second Year student in Kalinga Institute of Industrial Technology (KIIT)
 
-- 🔭 I’m currently working on **Intelli Kanban** & focusing on **DSA**
+- 🔭 I’m currently working on **FullStack Applications** & focusing on **DSA**
 
-- 🌱 I’m currently developing and learning **JavaScript, Node.js, and other full-stack tools.**
+- 🌱 I’m currently developing and learning **TypeScript, Graphql, and other full-stack tools.**
 
 - ⚡ Fun fact : **My GitHub codes = 40% Me + 10% StackOverflow + 30% Google + 20% Github Copilot**
 
@@ -22,11 +22,11 @@
 
 ### 🔥 My Stats
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=getlost01&count_private=true&show_icons=true&theme=react" /> <img width="425" src="https://streak-stats.demolab.com/?user=getlost01&theme=react" />
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=getlost01&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=AvaterClasher&count_private=true&show_icons=true&theme=react" /> <img width="425" src="https://streak-stats.demolab.com/?user=getlost01&theme=react" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=AvaterClasher&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <a href="https://github.com/getlost01/github-stats">
-<img src="https://getlost01.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://getlost01.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://AvaterClasher.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://AvaterClasher.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getlost01&layout=compact&langs_count=10&theme=react) -->
@@ -34,7 +34,7 @@
 
 ---
 
-### ⚙️ My Projects
+<!-- ### ⚙️ My Projects
 
 #### Full-Stack Projects :
 
@@ -67,6 +67,8 @@
 <a href="https://github.com/getlost01/getlost01/tree/main/projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
 
 ---
+
+-->
 
 ### :hammer_and_wrench: Languages and Tools
 
@@ -133,9 +135,9 @@ CSS          5 hrs 48 mins   ▒░░░░░░░░░░░░░░░░
 ### 🐍 Contribution snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://AvaterClasher.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://AvaterClasher.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://AvaterClasher.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -143,13 +145,13 @@ CSS          5 hrs 48 mins   ▒░░░░░░░░░░░░░░░░
 ### 🔗 Social info
 
 <div id="badges">
-    <a href="https://www.linkedin.com/in/aagam-jain-gl01/">
+    <a href="https://www.linkedin.com/in/soumyadip-moni-139105254/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=creator.gl01@gmail.com">
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=avater.clasher47@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://portfolio-de-aagam.netlify.app/">
+    <a href="https://soumyadipmoni.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
     </a>
     <a href="https://gl01.gitbook.io/gfg-editorials">
@@ -161,4 +163,4 @@ CSS          5 hrs 48 mins   ▒░░░░░░░░░░░░░░░░
 
 ### 👀 Visitor Info
 
-<img src="https://u8views.com/api/v1/github/profiles/79409258/views/day-week-month-total-count.svg">
+<img src="https://u8views.com/api/v1/github/profiles/116944847/views/day-week-month-total-count.svg">
