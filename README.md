@@ -134,11 +134,7 @@ CSS          5 hrs 48 mins   ▒░░░░░░░░░░░░░░░░
 
 ### 🐍 Contribution snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://AvaterClasher.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://AvaterClasher.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://AvaterClasher.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://github.com/AvaterClasher/AvaterClasher/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
