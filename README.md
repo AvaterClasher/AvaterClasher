@@ -11,7 +11,7 @@
 ### My Portfolio Status
 <div align="center">
   [![Netlify Status](https://api.netlify.com/api/v1/badges/004a42e2-d3ce-4f79-b62e-b6fe3789b72e/deploy-status)](https://app.netlify.com/sites/soumyadipmoni/deploys)
-</div>div>
+</div>
   
 ### 👦 About Me
 
