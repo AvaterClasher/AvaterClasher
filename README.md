@@ -8,6 +8,8 @@
 
 ---
 
+[![An image of @avaterclasher's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avaterclasher)](https://holopin.io/@avaterclasher)
+
 ### My Portfolio Status
 
   [![Netlify Status](https://api.netlify.com/api/v1/badges/004a42e2-d3ce-4f79-b62e-b6fe3789b72e/deploy-status)](https://app.netlify.com/sites/soumyadipmoni/deploys)
