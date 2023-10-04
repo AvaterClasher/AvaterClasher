@@ -10,11 +10,6 @@
 
 [![An image of @avaterclasher's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avaterclasher)](https://holopin.io/@avaterclasher)
 
-<p>
-    <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/{{AvaterClasher}}/contributions?format=svg&private=true" width="350" title="Includes public and private contributions" />
-    </a>
-</p>
 
 ### My Portfolio Status
 
