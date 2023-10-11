@@ -8,7 +8,7 @@
 
 ---
 
-[![An image of @avaterclasher's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avaterclasher)](https://holopin.io/@avaterclasher)
+[![An image of @avaterclasher's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avaterclasher)](https://holopin.io/@avaterclasherk)
 
 
 ### My Portfolio Status
