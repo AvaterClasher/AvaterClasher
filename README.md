@@ -30,6 +30,9 @@
 
 ### 🔥 My Stats
 
+[![AvaterClasher's GitHub | Stats](https://stats.quine.sh/AvaterClasher/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AvaterClasher)
+[![AvaterClasher's GitHub | Dependencies](https://stats.quine.sh/AvaterClasher/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AvaterClasher)
+[![AvaterClasher's GitHub | Languages Over Time](https://stats.quine.sh/AvaterClasher/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AvaterClasher)
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=AvaterClasher&count_private=true&show_icons=true&theme=react" /> <img width="425" src="https://streak-stats.demolab.com/?user=AvaterClasher&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=AvaterClasher&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <a href="https://github.com/anuraghazra/github-readme-stats">
