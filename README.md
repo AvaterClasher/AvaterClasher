@@ -14,6 +14,7 @@
 ### My Portfolio Status
 
   [![Netlify Status](https://api.netlify.com/api/v1/badges/004a42e2-d3ce-4f79-b62e-b6fe3789b72e/deploy-status)](https://app.netlify.com/sites/soumyadipmoni/deploys)
+  [![wakatime](https://wakatime.com/badge/user/75822f7d-3ec3-4e58-8d48-631194fcaf9c.svg)](https://wakatime.com/@75822f7d-3ec3-4e58-8d48-631194fcaf9c)
 
   
 ### 👦 About Me
