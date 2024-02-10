@@ -19,8 +19,6 @@
 
 ### 🔥 My Stats
 
-[![AvaterClasher's GitHub | Stats](https://stats.quine.sh/AvaterClasher/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AvaterClasher)
-[![AvaterClasher's GitHub | Dependencies](https://stats.quine.sh/AvaterClasher/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AvaterClasher)
 <!--![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AvaterClasher&theme=react) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getlost01&layout=compact&langs_count=10&theme=react) -->
 <!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=getlost01&theme=react) -->
@@ -63,7 +61,7 @@
 
 -->
 
-### :hammer_and_wrench: Languages and Tools
+<!-- ### :hammer_and_wrench: Languages and Tools
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>&nbsp;
@@ -77,6 +75,8 @@
 </div>
 
 ---
+
+-->
 
 ### 📈 Weekly Development Breakdown
 
@@ -121,9 +121,3 @@ CSS          5 hrs 48 mins   ▒░░░░░░░░░░░░░░░░
     <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GFG"/>
     </a>
 </div>
-
----
-
-### 👀 Visitor Info
-
-<img src="https://u8views.com/api/v1/github/profiles/116944847/views/day-week-month-total-count.svg">
