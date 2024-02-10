@@ -11,13 +11,13 @@
 [![An image of @avaterclasher's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avaterclasher)](https://holopin.io/@avaterclasher)
 
 
-### My Portfolio Status
+### ⏰ Total Coding Time
 
   [![Netlify Status](https://api.netlify.com/api/v1/badges/004a42e2-d3ce-4f79-b62e-b6fe3789b72e/deploy-status)](https://app.netlify.com/sites/soumyadipmoni/deploys)
   [![wakatime](https://wakatime.com/badge/user/75822f7d-3ec3-4e58-8d48-631194fcaf9c.svg)](https://wakatime.com/@75822f7d-3ec3-4e58-8d48-631194fcaf9c)
   <!-- <img src="https://backend.codecrafters.io/progress/dns-server/d895ab31-dde9-470e-acf7-d626002794d8"/> -->
 
-### 🔥 My Stats
+<!-- ### 🔥 My Stats -->
 
 <!--![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AvaterClasher&theme=react) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getlost01&layout=compact&langs_count=10&theme=react) -->
@@ -102,22 +102,3 @@ CSS          5 hrs 48 mins   ▒░░░░░░░░░░░░░░░░
 ### 🐍 Contribution snake
 
 ![Snake animation](https://github.com/AvaterClasher/AvaterClasher/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
-### 🔗 Social info
-
-<div id="badges">
-    <a href="https://www.linkedin.com/in/soumyadip-moni-139105254/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=avater.clasher47@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-    <a href="https://soumyadipmoni.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
-    </a>
-    <a href="https://gl01.gitbook.io/gfg-editorials">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GFG"/>
-    </a>
-</div>
