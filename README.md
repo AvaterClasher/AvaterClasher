@@ -17,19 +17,6 @@
   [![wakatime](https://wakatime.com/badge/user/75822f7d-3ec3-4e58-8d48-631194fcaf9c.svg)](https://wakatime.com/@75822f7d-3ec3-4e58-8d48-631194fcaf9c)
   <!-- <img src="https://backend.codecrafters.io/progress/dns-server/d895ab31-dde9-470e-acf7-d626002794d8"/> -->
 
-  
-### 👦 About Me
-
-- 👨‍💻 I'm a B-Tech CSE Second Year student in Kalinga Institute of Industrial Technology (KIIT)
-
-- 🔭 I’m currently working on **FullStack Applications** & focusing on **DSA**
-
-- 🌱 I’m currently developing and learning **TypeScript, Graphql, and other full-stack tools.**
-
-- ⚡ Fun fact : **My GitHub codes = 40% Me + 10% StackOverflow + 30% Google + 20% Github Copilot**
-
----
-
 ### 🔥 My Stats
 
 [![AvaterClasher's GitHub | Stats](https://stats.quine.sh/AvaterClasher/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AvaterClasher)
