@@ -78,7 +78,7 @@
 
 -->
 
-### 📈 Weekly Development Breakdown
+### 📈 Total Development Breakdown
 
 <!--START_SECTION:waka-simple-->
 
