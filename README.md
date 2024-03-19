@@ -78,9 +78,9 @@
 
 -->
 
-### 📈 Total Development Breakdown
+### 📈 Weekly Development Breakdown
 
-<!--START_SECTION:waka-simple-->
+<!--START_SECTION:waka-->
 
 ```text
 From: 24 January 2023 - To: 15 August 2023
@@ -95,7 +95,7 @@ JSON         7 hrs 18 mins   ▓░░░░░░░░░░░░░░░░
 CSS          5 hrs 48 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
-<!--END_SECTION:waka-simple-->
+<!--END_SECTION:waka-->
 
 ---
 
