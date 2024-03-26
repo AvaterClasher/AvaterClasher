@@ -83,13 +83,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 March 2024 - To: 23 March 2024
+From: 17 March 2024 - To: 24 March 2024
 
-TypeScript    14 hrs 25 mins  ██████████▓░░░░░░░░░░░░░░   42.70 %
-Rust          4 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
-Go            3 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-Prisma        2 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-Bash          1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+TypeScript    11 hrs 18 mins  █████████▒░░░░░░░░░░░░░░░   37.93 %
+Go            6 hrs 24 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
+Rust          2 hrs 54 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+Prisma        2 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+Bash          1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
 ```
 
 <!--END_SECTION:waka-->
