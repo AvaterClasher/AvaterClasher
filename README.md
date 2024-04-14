@@ -83,11 +83,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2024 - To: 11 April 2024
+From: 05 April 2024 - To: 12 April 2024
 
-Java   1 hr 30 mins    ██████████████████░░░░░░░   72.14 %
-Bash   34 mins         ███████░░░░░░░░░░░░░░░░░░   27.65 %
-XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Bash   6 mins          ████████████████████▒░░░░   81.32 %
+Java   1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
 ```
 
 <!--END_SECTION:waka-->
