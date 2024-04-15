@@ -83,10 +83,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2024 - To: 12 April 2024
+From: 07 April 2024 - To: 14 April 2024
 
-Bash   6 mins          ████████████████████▒░░░░   81.32 %
-Java   1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
