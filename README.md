@@ -83,13 +83,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 May 2024 - To: 27 May 2024
+From: 21 May 2024 - To: 28 May 2024
 
-Rust         13 hrs 8 mins   ███████████░░░░░░░░░░░░░░   43.91 %
-MDX          5 hrs 39 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.89 %
-Other        2 hrs 52 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
-TypeScript   2 hrs 39 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-PowerShell   1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Rust         11 hrs 43 mins  █████████░░░░░░░░░░░░░░░░   35.62 %
+MDX          5 hrs 43 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
+Go           3 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
+Other        3 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+TypeScript   2 hrs 39 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
 ```
 
 <!--END_SECTION:waka-->
