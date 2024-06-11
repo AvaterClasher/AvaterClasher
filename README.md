@@ -83,13 +83,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2024 - To: 08 June 2024
+From: 02 June 2024 - To: 09 June 2024
 
-TypeScript    17 hrs 52 mins  ████████████████░░░░░░░░░   63.41 %
-JavaScript    2 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
-Go            2 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
-Bash          2 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-Other         1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+TypeScript   16 hrs 8 mins   ███████████████░░░░░░░░░░   59.82 %
+Bash         3 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
+Go           2 hrs 24 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+Other        1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+JavaScript   1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
 ```
 
 <!--END_SECTION:waka-->
