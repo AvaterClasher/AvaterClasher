@@ -83,13 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2024 - To: 14 September 2024
+From: 08 September 2024 - To: 15 September 2024
 
-TypeScript   6 hrs 44 mins   ████████████████████▒░░░░   81.05 %
-Prisma       1 hr 25 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
-Python       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript   3 hrs 51 mins   ████████████████████░░░░░   79.64 %
+Prisma       59 mins         █████░░░░░░░░░░░░░░░░░░░░   20.32 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
