@@ -83,11 +83,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2024 - To: 15 September 2024
+From: 09 September 2024 - To: 16 September 2024
 
-TypeScript   3 hrs 51 mins   ████████████████████░░░░░   79.64 %
-Prisma       59 mins         █████░░░░░░░░░░░░░░░░░░░░   20.32 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
