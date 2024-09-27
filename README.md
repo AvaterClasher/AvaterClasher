@@ -83,10 +83,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2024 - To: 24 September 2024
+From: 18 September 2024 - To: 25 September 2024
 
-Rust         1 min           █████████████░░░░░░░░░░░░   52.02 %
-Git Config   1 min           ████████████░░░░░░░░░░░░░   47.98 %
+Rust         55 mins         █████████████████████▒░░░   85.64 %
+Other        7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+ReScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
