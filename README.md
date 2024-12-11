@@ -83,13 +83,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2024 - To: 08 December 2024
+From: 03 December 2024 - To: 10 December 2024
 
-Rust         3 hrs           ████████████░░░░░░░░░░░░░   47.51 %
-Go           1 hr 29 mins    ██████░░░░░░░░░░░░░░░░░░░   23.65 %
-TypeScript   56 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
-YAML         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-JavaScript   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Go           1 hr 29 mins    ██████████▒░░░░░░░░░░░░░░   41.75 %
+TypeScript   56 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.44 %
+Rust         31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
+YAML         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+JavaScript   13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
 ```
 
 <!--END_SECTION:waka-->
