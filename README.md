@@ -83,10 +83,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 December 2024 - To: 12 December 2024
+From: 07 December 2024 - To: 14 December 2024
 
-Rust   21 mins         ███████████████████████▓░   94.36 %
-TOML   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Rust     1 hr 48 mins    ████████████████████░░░░░   79.60 %
+Docker   13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
+Go       11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+Bash     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Other    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
