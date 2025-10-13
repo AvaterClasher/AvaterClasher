@@ -83,13 +83,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2025 - To: 10 October 2025
+From: 05 October 2025 - To: 12 October 2025
 
-Python       13 hrs 3 mins   ███████████▒░░░░░░░░░░░░░   45.18 %
-TypeScript   11 hrs 52 mins  ██████████▒░░░░░░░░░░░░░░   41.08 %
-JSON         1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Bash         51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-Docker       40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Python       9 hrs 47 mins   ████████████▒░░░░░░░░░░░░   49.31 %
+TypeScript   6 hrs           ███████▓░░░░░░░░░░░░░░░░░   30.27 %
+JSON         1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Bash         47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Docker       40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
 ```
 
 <!--END_SECTION:waka-->
