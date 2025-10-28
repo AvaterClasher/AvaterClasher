@@ -83,13 +83,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2025 - To: 25 October 2025
+From: 20 October 2025 - To: 27 October 2025
 
-TypeScript   10 hrs 18 mins  █████████████▓░░░░░░░░░░░   54.34 %
-Python       4 hrs 46 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.17 %
-Bash         1 hr 43 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
-MDX          1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-Prisma       34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+TypeScript   13 hrs 56 mins  ████████████▓░░░░░░░░░░░░   50.77 %
+Python       8 hrs 22 mins   ███████▓░░░░░░░░░░░░░░░░░   30.50 %
+Bash         2 hrs 54 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+MDX          1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Prisma       39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 ```
 
 <!--END_SECTION:waka-->
