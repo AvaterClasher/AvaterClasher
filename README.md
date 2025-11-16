@@ -83,13 +83,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2025 - To: 13 November 2025
+From: 08 November 2025 - To: 15 November 2025
 
-TypeScript   4 hrs 5 mins    ██████████████████▓░░░░░░   74.01 %
-Python       46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
-Bash         23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
-Docker       15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
